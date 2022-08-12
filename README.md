@@ -1,4 +1,4 @@
-# **learning HTML and CSS**
+# **Learning HTML and CSS**
 ## link: https://learn.shayhowe.com/html-css/
 
 ## Lessons:
@@ -28,3 +28,19 @@ CSS
 * Combining Selectors
 * Layering Styles with Multiple Classes
 * Common Property Values
+
+### Lesson 3:
+#### **HTML**
+* basic semantics in html and browsers
+
+### Lesson 4:
+#### **HTML** and **CSS**
+* interactive button
+
+### Lesson 5:
+#### **HTML** and **CSS**
+* responsive menu with a java script
+
+### Lesson 6:
+#### **HTML** and **CSS**
+* responsive price table
